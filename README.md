@@ -1,1 +1,1 @@
-genNow# guro-ai
+# guro-ai
